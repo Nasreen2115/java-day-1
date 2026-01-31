@@ -14,7 +14,7 @@ public class User {
     System.out.println(f);
     System.out.println(d);
     System.out.println(s1);
-    System.out.println(s2);
 
 }    
 }
+
